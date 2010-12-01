@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe</StartProgram>
+    <StartArguments>C:\DotNet35\CS\SandcastleBuilder\Doc\BuildComponents.shfbproj /p:CleanIntermediates=True</StartArguments>
+    <StartWorkingDirectory>C:\DotNet35\CS\SandcastleBuilder\Doc\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

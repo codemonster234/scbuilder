@@ -1,0 +1,6 @@
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\bin\Debug\HelpLibraryManagerLauncher.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\bin\Debug\HelpLibraryManagerLauncher.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\obj\Debug\HelpLibraryManagerLauncher.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\obj\Debug\HelpLibraryManagerLauncher.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\HelpLibraryManagerLauncher\bin\Debug\HelpLibraryManagerLauncher.xml

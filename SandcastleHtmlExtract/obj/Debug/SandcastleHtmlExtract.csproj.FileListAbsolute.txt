@@ -1,0 +1,7 @@
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\bin\Debug\SandcastleHtmlExtract.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\bin\Debug\SandcastleHtmlExtract.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\bin\Debug\SandcastleHtmlExtract.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\obj\Debug\SandcastleHtmlExtract.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\obj\Debug\SandcastleHtmlExtract.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleHtmlExtract\bin\Debug\SandcastleHtmlExtract.xml

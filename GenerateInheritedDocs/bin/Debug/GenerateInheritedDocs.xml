@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GenerateInheritedDocs</name>
+    </assembly>
+    <members>
+        <member name="T:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile">
+            <summary>
+            This represents an indexed XML comments file
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="filename">The name of the XML comments file to index</param>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile.GetContent(System.String)">
+            <summary>
+            Get the XML comments for the given key
+            </summary>
+            <param name="key">The key for the comments</param>
+            <returns>An <see cref="T:System.Xml.XPath.XPathNavigator"/> for the comments or null
+            if not found.</returns>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile.GetKeys">
+            <summary>
+            Return all keys in this file
+            </summary>
+            <returns>A string array containing the keys</returns>
+        </member>
+        <member name="P:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile.Filename">
+            <summary>
+            This read-only property returns the comments filename
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsFile.Count">
+            <summary>
+            This read-only property returns the number of items in the index
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache">
+            <summary>
+            This is used to cache indexed XML comments files
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.OnReportWarning(SandcastleBuilder.Utils.InheritedDocumentation.CommentsCacheEventArgs)">
+            <summary>
+            This is used to raise the <see cref="E:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.ReportWarning"/> event
+            </summary>
+            <param name="args">The event arguments</param>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.#ctor(System.Int32)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="size">The maximum size of the cache</param>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.IndexCommentsFiles(System.String,System.String,System.Boolean,System.Collections.ObjectModel.Collection{System.Xml.XPath.XPathNavigator})">
+            <summary>
+            Index all comments files found in the specified folder.
+            </summary>
+            <param name="path">The path to search.  If null or empty, the
+            current directory is assumed.</param>
+            <param name="wildcard">The wildcard to use.  If null or empty,
+            "*.xml" is assumed.</param>
+            <param name="recurse">True to recurse subfolders or false to only
+            use the given folder.</param>
+            <param name="commentsFiles">Optional.  If not null, an
+            <see cref="T:System.Xml.XPath.XPathDocument"/> is added to the collection for each
+            file indexed.</param>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.GetComments(System.String)">
+            <summary>
+            Get the comments for the specified key
+            </summary>
+            <param name="key">The key for which to retrieve comments</param>
+            <returns>An <see cref="T:System.Xml.XPath.XPathNavigator"/> for the comments or null
+            if not found.</returns>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.GetCommentsFile(System.String)">
+            <summary>
+            Get the comments file from the index cache that contains the given
+            key.
+            </summary>
+            <param name="key">The key for which to retrieve the file</param>
+            <returns>The indexed comments file or null if not found</returns>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.GetKeys">
+            <summary>
+            Return all keys in this index
+            </summary>
+            <returns>A string array containing the keys</returns>
+        </member>
+        <member name="P:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.IndexCount">
+            <summary>
+            This read-only property returns the number of items indexed
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.FilesIndexed">
+            <summary>
+            This read-only property returns the number of comments files
+            that were indexed.
+            </summary>
+        </member>
+        <member name="E:SandcastleBuilder.Utils.InheritedDocumentation.IndexedCommentsCache.ReportWarning">
+            <summary>
+            This is used by the cache to report duplicate key warnings
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs">
+            <summary>
+            This class represents the tool that scans XML comments files for
+            <b>&lt;inheritdoc /&gt;</b> tags and produces a new XML comments
+            file containing the inherited documentation for use by Sandcastle.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.Execute">
+            <summary>
+            This is used to execute the task and generate the inherited
+            documentation.
+            </summary>
+            <returns>True on success or false on failure.</returns>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.Main(System.String[])">
+            <summary>
+            Main program entry point
+            </summary>
+            <param name="args">The command line arguments.  There should be
+            single configuration filename specified.</param>
+            <returns>Zero on success, non-zero on failure</returns>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.commentsCache_ReportWarning(System.Object,SandcastleBuilder.Utils.InheritedDocumentation.CommentsCacheEventArgs)">
+            <summary>
+            Report a duplicate key warning
+            </summary>
+            <param name="sender">The sender of the event</param>
+            <param name="e">The event arguments</param>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.LoadConfiguration(System.String)">
+            <summary>
+            Load the configuration file
+            </summary>
+            <param name="configFile">The configuration file to load</param>
+            <exception cref="T:System.ArgumentException">This is thrown if the
+            configuration file does not exist.</exception>
+            <exception cref="T:System.Configuration.ConfigurationErrorsException">This is thrown if
+            the configuration file is not valid.</exception>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.ScanCommentsFiles">
+            <summary>
+            This scans the XML comments files for &lt;inheritdoc /&gt; tags and
+            adds the inherited documentation.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.InheritDocumentation(System.Xml.XmlNode)">
+            <summary>
+            This is used to generate the inherited documentation for the
+            given member.  Only tags at the root level are processed here.
+            </summary>
+            <param name="member">The member for which to inherit documentation</param>
+            <remarks>This will recursively expand documentation if a base
+            member's comments are present in the generation list.</remarks>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.MergeComments(System.Xml.XPath.XPathNavigator,System.Xml.XPath.XPathNavigator,System.String)">
+            <summary>
+            Merge the XML comments from one member into another
+            </summary>
+            <param name="fromMember">The member from which to merge comments</param>
+            <param name="toMember">The member into which the comments merged</param>
+            <param name="filter">The selection filter</param>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.InheritNestedDocumentation(System.Xml.XmlNode)">
+            <summary>
+            This is used to generate the inherited documentation for the
+            given member.  Only tags at the root level are processed here.
+            </summary>
+            <param name="member">The member for which to inherit documentation</param>
+            <remarks>This will recursively expand documentation if a base
+            member's comments are present in the generation list.</remarks>
+        </member>
+        <member name="M:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.LocateBaseDocumentation(System.String,System.String)">
+            <summary>
+            Locate and merge the documentation from the base member(s)
+            </summary>
+            <param name="name">The member name</param>
+            <param name="cref">An optional member name from which to inherit
+            the documentation.</param>
+        </member>
+        <member name="P:SandcastleBuilder.InheritedDocumentation.GenerateInheritedDocs.ConfigurationFile">
+            <summary>
+            This is used to set the configuration file to use from the MSBuild
+            project file
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.Utils.InheritedDocumentation.CommentsCacheEventArgs">
+            <summary>
+            This is used by the comments cache to report a warning message
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.CommentsCacheEventArgs.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="text">The message text</param>
+        </member>
+        <member name="P:SandcastleBuilder.Utils.InheritedDocumentation.CommentsCacheEventArgs.Message">
+            <summary>
+            The message to report
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.Utils.InheritedDocumentation.InheritedDocsException">
+            <summary>
+            This exception class is thrown by the application if it encounters an
+            unrecoverable error.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.InheritedDocsException.#ctor">
+            <summary>
+            Default constructor.
+            </summary>
+            <overloads>There are three overloads for the constructor</overloads>
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.InheritedDocsException.#ctor(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.InheritedDocsException.#ctor(System.String,System.Exception)">
+            <inheritdoc />
+        </member>
+        <member name="M:SandcastleBuilder.Utils.InheritedDocumentation.InheritedDocsException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SandcastleBuilder">
+</Property><Property Name="Solution File" Value="C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilder.sln">
+</Property><Property Name="Date" Value="Friday, September 24, 2010">
+</Property><Property Name="Time" Value="13:27 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SandcastleBuilderGui" Source="SandcastleBuilderGui\SandcastleBuilderGui.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleBuilderGui" Source="SandcastleBuilderGui\SandcastleBuilderGui.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleBuilderUtils" Source="SandcastleBuilderUtils\SandcastleBuilderUtils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleBuilderUtils" Source="SandcastleBuilderUtils\SandcastleBuilderUtils.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ColorizerLibrary" Source="..\CodeColorizer\ColorizerLibrary\ColorizerLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ColorizerLibrary" Source="..\CodeColorizer\ColorizerLibrary\ColorizerLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleComponents" Source="SandcastleComponents\SandcastleComponents.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleComponents" Source="SandcastleComponents\SandcastleComponents.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleBuilderPlugIns" Source="SandcastleBuilderPlugIns\SandcastleBuilderPlugIns.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleBuilderPlugIns" Source="SandcastleBuilderPlugIns\SandcastleBuilderPlugIns.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleHtmlExtract" Source="SandcastleHtmlExtract\SandcastleHtmlExtract.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleHtmlExtract" Source="SandcastleHtmlExtract\SandcastleHtmlExtract.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenerateInheritedDocs" Source="GenerateInheritedDocs\GenerateInheritedDocs.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenerateInheritedDocs" Source="GenerateInheritedDocs\GenerateInheritedDocs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleMRefBuilder" Source="SandcastleMRefBuilder\SandcastleMRefBuilder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SandcastleMRefBuilder" Source="SandcastleMRefBuilder\SandcastleMRefBuilder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HelpLibraryManagerLauncher" Source="HelpLibraryManagerLauncher\HelpLibraryManagerLauncher.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HelpLibraryManagerLauncher" Source="HelpLibraryManagerLauncher\HelpLibraryManagerLauncher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SandcastleBuilder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SandcastleBuilder.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SandcastleBuilderGui" Source="SandcastleBuilderGui\SandcastleBuilderGui.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SandcastleBuilderUtils" Source="SandcastleBuilderUtils\SandcastleBuilderUtils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ColorizerLibrary" Source="..\CodeColorizer\ColorizerLibrary\ColorizerLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SandcastleComponents" Source="SandcastleComponents\SandcastleComponents.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SandcastleBuilderPlugIns" Source="SandcastleBuilderPlugIns\SandcastleBuilderPlugIns.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SandcastleHtmlExtract" Source="SandcastleHtmlExtract\SandcastleHtmlExtract.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GenerateInheritedDocs" Source="GenerateInheritedDocs\GenerateInheritedDocs.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SandcastleMRefBuilder" Source="SandcastleMRefBuilder\SandcastleMRefBuilder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="HelpLibraryManagerLauncher" Source="HelpLibraryManagerLauncher\HelpLibraryManagerLauncher.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

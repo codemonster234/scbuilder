@@ -1,0 +1,187 @@
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilderGUI.exe.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Site Map.sitemap
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Content Layout.content
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Code Snippets.snippets
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Token File.tokens
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Resource Item File.items
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Bitmap.bmp
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Html Page.html
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Script File.js
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Style Sheet.css
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\Text File.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\XML File.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ItemTemplates\XSLT File.xslt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\InstallMSHC.bat
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\RemoveMSHC.bat
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\HelpContentSetup.msha
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\PlaceHolderNode.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\BuildHelpViewerFile.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Build2xHelpFile.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Build1xHelpFile.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Generate2xTOC.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\ExtractHtmlInfo.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\GenerateIntermediateTOC.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\BuildConceptualTopics.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\BuildReferenceTopics.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\HelpFileBuilderTokens.tokens
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\TransformManifest.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\GenerateInheritedDocs.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\GenerateRefInfo.proj
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Conceptual.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Error Message.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Glossary.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\How To.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Orientation.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Reference With Syntax.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Reference Without Syntax.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Reference.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Sample.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\SDK Technology Architecture.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\SDK Technology Code Directory.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\SDK Technology Orientation.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\SDK Technology Scenarios.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\SDK Technology Summary.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Troubleshooting.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\User Interface Reference.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Walkthrough.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\Whitepaper.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ConceptualTemplates\XML Reference.aml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\conceptual.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\FixScriptSharp.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_H2Reg.ini
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_de-DE.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_en-US.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_es-ES.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_fr-FR.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_it-IT.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_ja-JP.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_ko-KR.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_pt-BR.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_ru-RU.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_zh-CHS.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\StopWordList_zh-CN.txt
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\GenerateInheritedDocs.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_NamedURLIndex.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_de-DE.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_en-US.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_es-ES.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_fr-FR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_it-IT.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_ja-JP.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_ko-KR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_pt-BR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_ru-RU.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_zh-CHS.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\HanaBuilderContent_zh-CN.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_de-DE.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_en-US.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_es-ES.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_fr-FR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_it-IT.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_ja-JP.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_ko-KR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_pt-BR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_ru-RU.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_zh-CHS.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\PrototypeBuilderContent_zh-CN.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_ja-JP.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_de-DE.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_en-US.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_es-ES.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_fr-FR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_it-IT.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_ja-JP.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_ko-KR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_pt-BR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_ru-RU.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_zh-CHS.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\VS2005BuilderContent_zh-CN.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\CopyCode_h.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_de-DE.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_en-US.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_es-ES.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_fr-FR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_it-IT.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_ko-KR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_pt-BR.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_ru-RU.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_zh-CHS.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SharedContent\SharedBuilderContent_zh-CN.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Hana.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Prototype.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\TransformBuildLog.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\VS2005.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\CloseSearch.png
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\CollapseAll.bmp
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\ExpandAll.bmp
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\favicon.ico
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Index.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\LoadIndexKeywords.aspx
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Search.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\SearchHelp.aspx
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Web.Config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Prototype.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\VS2005.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Hana.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\CopyCode.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\highlight.css
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\highlight.js
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\highlight.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Colorizer\highlight.xsl
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\MRefBuilder.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x.HxC
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x.HxF
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_A.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_B.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_F.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_K.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help2x_S.HxK
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Templates\Help1x.hhp
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Collapsed.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Expanded.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\FillNode.aspx
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Index.aspx
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Index.html
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Item.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\Splitter.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\SyncTOC.gif
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\TOC.css
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Web\TOC.js
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilderGUI.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilderGUI.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilder.Utils.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ColorizerLibrary.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilder.Utils.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilder.Utils.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ColorizerLibrary.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\ColorizerLibrary.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\Ionic.Zip.Reduced.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.AboutDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.EntityReferenceWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.ContentLayoutWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.FindAndReplaceWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.GotoLineDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.OutputWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.PreviewTopicWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.ProjectExplorerWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.ProjectPropertiesWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.ResourceItemEditorWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.SelectGacEntriesDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.SiteMapEditorWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.TokenEditorWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.ContentEditors.TopicEditorWindow.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.LaunchMSHelpViewerDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.NewFromOtherFormatDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.MainForm.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.PromptToSaveDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.Properties.Resources.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilder.Gui.UserPreferencesDlg.resources
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilderGUI.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\obj\Debug\SandcastleBuilderGUI.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleBuilderGui\bin\Debug\SandcastleBuilderGUI.xml

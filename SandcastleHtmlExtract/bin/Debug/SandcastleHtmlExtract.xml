@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SandcastleHtmlExtract</name>
+    </assembly>
+    <members>
+        <member name="T:SandcastleBuilder.HtmlExtract.OptionInfo">
+            <summary>
+            This class holds command line option information.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.OptionInfo.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="option">The option text to parse</param>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.OptionInfo.OptionText">
+            <summary>
+            Get the option text as specified
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.OptionInfo.Name">
+            <summary>
+            Get the option name
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.OptionInfo.Value">
+            <summary>
+            Get the option value
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.OptionInfo.SecondValue">
+            <summary>
+            Get the second option value if there was one
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.OptionInfo.ThirdValue">
+            <summary>
+            Get the third option value if there was one
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract">
+            <summary>
+            This is the console mode application used to extract title and keyword
+            information from HTML files for use in creating the CHM table of
+            contents and keyword index files.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.Execute">
+            <summary>
+            This is used to execute the task and generate the inherited
+            documentation.
+            </summary>
+            <returns>True on success or false on failure.</returns>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.Main(System.String[])">
+            <summary>
+            Main program entry point
+            </summary>
+            <param name="args">The command line arguments</param>
+            <returns>Zero on success or a non-zero value on failure</returns>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.ShowHelp">
+            <summary>
+            This is used to show the command line syntax
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.ParseFiles(System.String,System.String)">
+            <summary>
+            Parse the given set of files to generate title and keyword info
+            and localize the files if necessary.
+            </summary>
+            <param name="fileFolder">The folder containing the files to parse</param>
+            <param name="localizedOutputFolder">The folder in which to store localized
+            output or null for no localized output.</param>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.ProcessFile(System.String,System.String,System.String)">
+            <summary>
+            Parse each file looking for the title and index keywords
+            </summary>
+            <param name="basePath">The base folder path</param>
+            <param name="sourceFile">The file to parse</param>
+            <param name="localizedOutputFolder">The folder in which to store localized
+            output or null for no localized output.</param>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WriteHelp1xTableOfContents">
+            <summary>
+            Write out the HTML Help 1 table of contents
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WriteContentLine(System.IO.TextWriter,System.Int32,System.String)">
+            <summary>
+            Write out a table of contents line with indentation
+            </summary>
+            <param name="writer">The writer to which the line is saved</param>
+            <param name="indentCount">The amount of indent to use</param>
+            <param name="value">The value to write</param>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WriteHelp1xKeywordIndex">
+            <summary>
+            Write out the HTML Help 1 keyword index
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WriteWebsiteTableOfContents">
+            <summary>
+            Write out the website table of contents
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WriteWebsiteKeywordIndex">
+            <summary>
+            Write out the website keyword index
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.ProjectName">
+            <summary>
+            This is used to set the project name
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.LanguageId">
+            <summary>
+            This is used to set the language ID (LCID)
+            </summary>
+            <value>This is optional.  If not set, it defaults to 1033.</value>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.Help1Folder">
+            <summary>
+            This is used to set the HTML Help 1 file folder name containing the
+            Help 1 files to be processed.
+            </summary>
+            <value>This is optional.  If not set, no HTML help 1 files will be
+            processed.</value>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.WebsiteFolder">
+            <summary>
+            This is used to set the website file folder name containing the
+            website files to be processed.
+            </summary>
+            <value>This is optional.  If not set, no HTML help 1 files will be
+            processed.</value>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.LocalizedFolder">
+            <summary>
+            This is used to set the localized output folder name
+            </summary>
+            <value>This is optional.  If not set, the HTML files will not
+            be localized.</value>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.OutputFolder">
+            <summary>
+            This is used to set the general output folder name
+            </summary>
+            <value>This is optional.  If not set, it defaults to the current
+            working folder.</value>
+        </member>
+        <member name="P:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.TocFile">
+            <summary>
+            This is used to set the table of contents XML filename
+            </summary>
+            <value>This is optional.  If not set, it defaults to
+            <b>toc.xml</b>.</value>
+        </member>
+        <member name="T:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.TitleInfo">
+            <summary>
+            This is used to hold title information
+            </summary>
+        </member>
+        <member name="F:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.TitleInfo.Title">
+            <summary>The title</summary>
+        </member>
+        <member name="F:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.TitleInfo.File">
+            <summary>The file in which it occurs</summary>
+        </member>
+        <member name="M:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.TitleInfo.#ctor(System.String,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="topicTitle">The title</param>
+            <param name="filename">The filename</param>
+        </member>
+        <member name="T:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.KeywordInfo">
+            <summary>
+            This is used to hold keyword information
+            </summary>
+        </member>
+        <member name="F:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.KeywordInfo.MainEntry">
+            <summary>The main entry</summary>
+        </member>
+        <member name="F:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.KeywordInfo.SubEntry">
+            <summary>An optional sub-entry</summary>
+        </member>
+        <member name="F:SandcastleBuilder.HtmlExtract.SandcastleHtmlExtract.KeywordInfo.File">
+            <summary>The file in which it occurs</summary>
+        </member>
+    </members>
+</doc>

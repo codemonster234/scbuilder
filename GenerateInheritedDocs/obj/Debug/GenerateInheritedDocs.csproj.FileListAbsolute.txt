@@ -1,0 +1,7 @@
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\bin\Debug\GenerateInheritedDocs.config
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\bin\Debug\GenerateInheritedDocs.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\bin\Debug\GenerateInheritedDocs.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\obj\Debug\GenerateInheritedDocs.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\obj\Debug\GenerateInheritedDocs.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\GenerateInheritedDocs\bin\Debug\GenerateInheritedDocs.xml

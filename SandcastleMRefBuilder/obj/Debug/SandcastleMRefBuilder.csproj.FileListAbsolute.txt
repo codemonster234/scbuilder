@@ -1,0 +1,14 @@
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\SandcastleBuilder.MRefBuilder.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\SandcastleBuilder.MRefBuilder.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\CCI.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\MrefBuilder.exe
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\Reflection.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\MrefBuilder.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\Reflection.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\obj\Debug\SandcastleBuilder.MRefBuilder.dll
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\obj\Debug\SandcastleBuilder.MRefBuilder.pdb
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\SandcastleBuilder.MRefBuilder.xml
+C:\Users\pchan\Desktop\SHFB_v1910_Src\DotNet35\CS\SandcastleBuilder\SandcastleMRefBuilder\bin\Debug\CCI.pdb

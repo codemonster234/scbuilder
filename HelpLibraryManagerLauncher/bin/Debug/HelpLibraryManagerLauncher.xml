@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HelpLibraryManagerLauncher</name>
+    </assembly>
+    <members>
+        <member name="T:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException">
+            <summary>
+            This exception class is thrown to report problems with the Help Library
+            Manager operation.
+            </summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.Success">
+            <summary>The operation was successful.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.HelpLibraryManagerNotFound">
+            <summary>The Help Library Manager was not found.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.HelpLibraryManagerAlreadyRunning">
+            <summary>The Help Library Manager is already running.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.LocalStoreNotInitialized">
+            <summary>The local store is not initialized.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.MissingCommandLineArgument">
+            <summary>A required command line argument is missing.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.CatalogNotInstalled">
+            <summary>The catalog is not installed.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.UnknownError">
+            <summary>An unknown error occurred in the Help Library Manager launcher.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.InvalidCmdArgs">
+            <summary>One or more command line arguments was missing or invalid.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.MissingOrInvalidAppConfig">
+            <summary>The application configuration file for HLM was missing or invalid.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.FailOnMachineLock">
+            <summary>The help content store could not be locked for update.  This error typically
+            occurs when the content is locked for update by another process.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.MissingCatalogInfo">
+            <summary>Files required to install content for a new product were not found.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.InvalidCatalogInfo">
+            <summary>Files required to install content for a new product were invalid.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.FailOnSettingLocalStore">
+            <summary>The path specified for the /content switch is invalid.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.InvalidHelpLocation">
+            <summary>The local content store is in an invalid state.  This error occurs when the
+            directory permissions do not allow writing, or a required file is missing from the
+            directory.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.NoBooksToInstall">
+            <summary>The arguments passed to HLM did not result in content being installed or removed.
+            This can occur when the content is already installed or has already been removed.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.FailOnSilentUninstall">
+            <summary>The removal of content failed.  Detailed information can be found in the event log
+            and in the installation log.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.FailOnSilentInstall">
+            <summary>The installation of content failed.  Detailed information can be found in the event
+            log and in the installation log.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.NonAdminSetsLocalStoreOnSilentMode">
+            <summary>A non-admin user is trying to initialize the store using the /silent switch.</summary>
+        </member>
+        <member name="F:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.Others">
+            <summary>An unknown error occurred.</summary>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.#ctor(System.Int32)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="errorCode">The error code associated with the exception</param>
+            <overloads>There are three overloads for the constructor</overloads>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.#ctor(System.Int32,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="errorCode">The error code associated with the exception</param>
+            <param name="additionalInfo">Additional information for the error message</param>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <inheritdoc />
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.ErrorMessageForCode(System.Int32)">
+            <summary>
+            Return a descriptive error message for the specified error code
+            </summary>
+            <param name="code">The error code</param>
+            <returns>A descriptive error message for the error code</returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <inheritdoc />
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerException.ErrorCode">
+            <summary>
+            This read-only property returns the error code
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument">
+            <summary>
+            This class represents a command line argument
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="argument">The command line argument</param>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument.MatchesSwitch(System.String)">
+            <summary>
+            This is used to see if the argument matches the specified
+            switch argument name.
+            </summary>
+            <param name="argumentName">The switch argument name to match</param>
+            <returns>True if this option matches the given name, False if not.</returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument.ToCommandLineOption">
+            <summary>
+            Returns the value as a command line option
+            </summary>
+            <returns>The value ready for use as a command line option.  If it
+            contains spaces, it will be enclosed in quotes.</returns>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument.Value">
+            <summary>
+            This read-only property returns the argument value
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.CommandLineArgument.IsSwitch">
+            <summary>
+            This read-only property returns whether or not the value is a
+            command line switch.
+            </summary>
+            <value>This returns true if the value is prefixed with a slash
+            or a dash.</value>
+        </member>
+        <member name="T:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerLauncher">
+            <summary>
+            This class contains the main program entry point.  The application is
+            used to perform the necessary housekeeping tasks prior to launching the
+            Help Library Manager application to install or remove a Microsoft Help
+            Viewer content file.
+            </summary>
+            <remarks>The tasks performed are based on the information found at
+            http://mshcmigrate.helpmvp.com/faq and http://mshcmigrate.helpmvp.com/faq/install.
+            </remarks>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerLauncher.Main(System.String[])">
+            <summary>
+            This is the main program entry point
+            </summary>
+            <param name="args">The command line arguments</param>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManagerLauncher.ShowHelp">
+            <summary>
+            Show command line help
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager">
+            <summary>
+            This class is used to interact with the Help Library Manager to install
+            and uninstall Microsoft Help Viewer files.
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.GetRegistryValue(System.String,System.String)">
+            <summary>
+            This is used to try and find the specified regsitry key value in the 64 bit part
+            of the registry. If not found, an attempt is made to try and find it in the 32 bit
+            part of the registry.
+            </summary>
+            <param name="registryKeyPath">The registry key path to find</param>
+            <param name="valueName">The value name to find</param>
+            <returns>The value in the named registry key value</returns>
+            <remarks>This method uses an API call that is unsupported on Windows 2000.</remarks>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.FindLocaleFor(System.String,System.String)">
+            <summary>
+            This is used to find the installed locale of the specified product
+            version.
+            </summary>
+            <param name="product">The product for which to get the locale.</param>
+            <param name="version">The version of the product for which to get the
+            locale.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.HelpContentFileInstalled(System.String)">
+            <summary>
+            This is used to see if the specified content file is installed
+            </summary>
+            <param name="contentFilename">The filename for which to check</param>
+            <returns>True if the file is installed, false if not</returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.RunAsNormalUser(System.String,System.Diagnostics.ProcessWindowStyle)">
+            <summary>
+            Run the Help Library Manager as a normal user
+            </summary>
+            <param name="arguments">The command line arguments to pass to it</param>
+            <param name="windowStyle">The window style to use</param>
+            <returns>The Help Library Manager exit code</returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.RunAsAdministrator(System.String,System.Diagnostics.ProcessWindowStyle)">
+            <summary>
+            Run the Help Library Manager as an administrator
+            </summary>
+            <param name="arguments">The command line arguments to pass to it</param>
+            <param name="windowStyle">The window style to use</param>
+            <returns>The Help Library Manager exit code</returns>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.LaunchInteractive(System.String)">
+            <summary>
+            Launch the help file viewer for interactive use
+            </summary>
+            <param name="arguments">The command line arguments to pass to it</param>
+            <remarks>This always runs it as an administrator on Vista and above.</remarks>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.LocalStorePath">
+            <summary>
+            This read-only property returns the path to the local store folder.
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.HelpLibraryManagerPath">
+            <summary>
+            This read-only property returns the path to the Help Library Manager
+            executable.
+            </summary>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.LocalStoreInitialized">
+            <summary>
+            This read-only property is used to see if the local store has been
+            initialized.
+            </summary>
+        </member>
+        <member name="T:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.Catalog">
+            <summary>
+            This is used internally to store information about the installed catalogs
+            </summary>
+        </member>
+        <member name="M:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.Catalog.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="product"></param>
+            <param name="version"></param>
+            <param name="locale"></param>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.Catalog.Locale">
+            <summary>Get the locale</summary>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.Catalog.Product">
+            <summary>Get the product</summary>
+        </member>
+        <member name="P:SandcastleBuilder.MicrosoftHelpViewer.HelpLibraryManager.Catalog.Version">
+            <summary>Get the version</summary>
+        </member>
+    </members>
+</doc>
